@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ContactsDemo
 //
-//  Created by Zeitech Solutions on 23/05/17.
+//  Created by Bansi Bahtt  on 23/05/17.
 //
 //
 
